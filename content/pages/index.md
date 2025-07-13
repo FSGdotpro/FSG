@@ -5,11 +5,11 @@ sections:
   - type: GenericSection
     subtitle: Poor Man's Publishing
     text: >+
-      <div style="text-align: center">This is *not* a book about publishing.
-      It’s a system  with real blueprints, redirects & backend structure. **Poor
-      Man’s Publishing** walks you through exactly how to create and own your
-      catalog without help, hype, or handouts.A real system — not a feel-good
-      guide. A look into contract law creatives need to know
+      <div style="text-align: center">###### This is *not* a book about
+      publishing. It’s a system  with real blueprints, redirects & backend
+      structure. **Poor Man’s Publishing** walks you through exactly how to
+      create and own your catalog without help, hype, or handouts.A real system
+      — not a feel-good guide. A look into contract law creatives need to know
 
       If you're building your legacy from scratch and want receipts instead of
       dreams, this is your blueprint.
