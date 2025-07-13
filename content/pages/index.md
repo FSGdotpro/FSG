@@ -5,18 +5,19 @@ sections:
   - type: GenericSection
     subtitle: Poor Man's Publishing
     text: >+
-      <div style="text-align: center">This is not a book about publishing. It’s
-      a system  with real blueprints, redirects, ISBNs, and backend structure —
-      Poor Man’s Publishing walks you through exactly how to create and own your
+      <div style="text-align: center">This is *not* a book about publishing.
+      It’s a system  with real blueprints, redirects & backend structure. **Poor
+      Man’s Publishing** walks you through exactly how to create and own your
       catalog without help, hype, or handouts.A real system — not a feel-good
-      guide.
+      guide. A look into contract law creatives need to know
 
       If you're building your legacy from scratch and want receipts instead of
       dreams, this is your blueprint.
 
-      Poor Man’s Publishing is part of the FSG Proof Series — for creators who
-      want to own their voice, build their vault, and get paid from the
-      backend.</div>
+      The history of the business of copywritten word — for creators who want to
+      own their voice, build their vault, and get paid from the backend.For
+      Authors, Musicians & Artists. If IP & copywrite law is involved... This is
+      it.</div>
 
     actions:
       - label: Get started
