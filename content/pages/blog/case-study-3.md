@@ -14,7 +14,7 @@ featuredImage:
     self:
       borderRadius: x-large
       padding:
-        - pl-6
+        - pl-0
   type: ImageBlock
 bottomSections:
   - title: Divider
