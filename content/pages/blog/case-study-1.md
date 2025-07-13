@@ -18,7 +18,7 @@ featuredImage:
         - mt-0
       padding:
         - pb-2
-        - pt-11
+        - pt-0
   type: ImageBlock
 bottomSections:
   - title: Divider
