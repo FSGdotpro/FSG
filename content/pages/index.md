@@ -57,7 +57,7 @@ sections:
     badge:
       type: Badge
       label: The proof vault
-      color: text-primary
+      color: text-dark
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
