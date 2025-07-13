@@ -17,7 +17,7 @@ featuredImage:
         - mb-0
         - mt-0
       padding:
-        - pb-6
+        - pb-0
         - pt-0
   type: ImageBlock
 bottomSections:
