@@ -7,7 +7,7 @@ excerpt: >-
   earum corporis id Quis esse est galisum officiis accusantium enim et
   asperiores dolore.
 featuredImage:
-  url: /images/POD.jpg
+  url: /images/POF cover.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
