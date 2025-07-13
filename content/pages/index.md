@@ -38,6 +38,7 @@ sections:
           margin:
             - mb-12
             - mt-12
+            - ml-6
           padding:
             - pb-0
     elementId: ''
