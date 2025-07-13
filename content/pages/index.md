@@ -38,6 +38,8 @@ sections:
           margin:
             - mb-12
             - mt-12
+          padding:
+            - pb-6
     elementId: ''
     colors: bg-light-fg-dark
     styles:
