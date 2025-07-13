@@ -61,7 +61,7 @@ sections:
       styles:
         self:
           fontWeight: 700
-          textAlign: center
+          textAlign: left
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
