@@ -20,7 +20,7 @@ sections:
       - label: Order Paperback
         altText: ''
         url: /
-        showIcon: true
+        showIcon: false
         icon: shoppingBag
         iconPosition: right
         style: primary
