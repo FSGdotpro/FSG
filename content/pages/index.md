@@ -21,7 +21,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: shoppingBag
+        icon: github
         iconPosition: right
         style: primary
         elementId: ''
