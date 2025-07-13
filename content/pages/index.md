@@ -56,7 +56,7 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: This is a badge
+      label: The proof vault
       color: text-primary
   - type: FeaturedItemsSection
     title:
