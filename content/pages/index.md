@@ -17,7 +17,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: Order Paperback
         altText: ''
         url: /
         showIcon: true
