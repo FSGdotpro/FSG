@@ -5,26 +5,13 @@ sections:
   - type: GenericSection
     subtitle: Poor Man's Publishing
     text: >+
-      This is not a book about publishing. It’s a system blueprint.
+      <div style="text-align: center">This is not a book about publishing. It’s
+      a system blueprint.
 
       Built in real-time, with real manuscripts, redirects, ISBNs, and backend
       structure — Poor Man’s Publishing walks you through exactly how to create
       and own your catalog without help, hype, or handouts.
 
-      You’ll learn:
-
-      – How to use Amazon as your silent distributor — without giving up control
-
-      – How to structure your pricing, royalties, ISBNs, and redirect flows
-
-      – Why most authors stay broke — and how to flip it through ownership
-
-      – The real story behind publishing, IP law, funnels, and backend
-      architecture
-
-      – How to turn your book into a platform, and your platform into a business
-
-      This isn’t hustle culture. It’s authorship with structure.
 
       A real system — not a feel-good guide.
 
@@ -32,9 +19,8 @@ sections:
       dreams, this is your blueprint.
 
       Poor Man’s Publishing is part of the FSG Proof Series — for creators who
-      want to own their voice, build their vault, and get paid from the backend.
-
-
+      want to own their voice, build their vault, and get paid from the
+      backend.</div>
 
     actions:
       - label: Get started
