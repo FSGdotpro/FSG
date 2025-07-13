@@ -35,7 +35,7 @@ sections:
         self:
           borderRadius: small
           margin:
-            - mb-24
+            - mb-20
             - mt-20
             - ml-0
           padding:
