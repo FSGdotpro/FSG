@@ -39,7 +39,7 @@ sections:
             - mb-12
             - mt-12
           padding:
-            - pb-6
+            - pb-0
     elementId: ''
     colors: bg-light-fg-dark
     styles:
