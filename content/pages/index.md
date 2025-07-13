@@ -21,7 +21,7 @@ sections:
         altText: ''
         url: /
         showIcon: true
-        icon: github
+        icon: send
         iconPosition: right
         style: primary
         elementId: ''
