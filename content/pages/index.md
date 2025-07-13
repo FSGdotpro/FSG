@@ -28,7 +28,7 @@ sections:
         type: Link
     media:
       url: /images/PMP wide full cover.png
-      altText: Unblock your team boost your time to production preview
+      altText: qqqqqqqq
       elementId: ''
       type: ImageBlock
       styles:
