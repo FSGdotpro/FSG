@@ -54,6 +54,10 @@ sections:
       subtitle:
         fontWeight: 700
         textAlign: center
+    badge:
+      type: Badge
+      label: This is a badge
+      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
