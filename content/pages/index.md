@@ -35,6 +35,8 @@ sections:
       styles:
         self:
           borderRadius: small
+          margin:
+            - mb-12
     elementId: ''
     colors: bg-light-fg-dark
     styles:
