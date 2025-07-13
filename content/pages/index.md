@@ -8,7 +8,7 @@ sections:
       <div style="text-align: center"># ![](/images/PMP.jpg)</div>
 
     actions:
-      - label: Order eBook Now
+      - label: Order eBook
         altText: ''
         url: /
         showIcon: false
