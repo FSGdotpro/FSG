@@ -28,7 +28,7 @@ sections:
         type: Link
     media:
       url: /images/PMP wide full cover.png
-      altText: qqqqqqqq
+      altText: ''
       elementId: ''
       type: ImageBlock
       styles:
