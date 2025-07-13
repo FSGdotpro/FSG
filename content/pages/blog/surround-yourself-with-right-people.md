@@ -10,7 +10,6 @@ excerpt: >-
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
-  url: /images/POF.jpg
   styles:
     self:
       borderRadius: medium
