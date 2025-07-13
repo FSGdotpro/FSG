@@ -4,20 +4,8 @@ slug: /
 sections:
   - type: GenericSection
     subtitle: Poor Man's Publishing
-    text: >+
-      <div style="text-align: center">###### This is *not* a book about
-      publishing. It’s a system  with real blueprints, redirects & backend
-      structure. **Poor Man’s Publishing** walks you through exactly how to
-      create and own your catalog without help, hype, or handouts.A real system
-      — not a feel-good guide. A look into contract law creatives need to know
-
-      If you're building your legacy from scratch and want receipts instead of
-      dreams, this is your blueprint.
-
-      The history of the business of copywritten word — for creators who want to
-      own their voice, build their vault, and get paid from the backend.For
-      Authors, Musicians & Artists. If IP & copywrite law is involved... This is
-      it.</div>
+    text: |+
+      <div style="text-align: center"># ![](/images/PMP.jpg)</div>
 
     actions:
       - label: Get started
