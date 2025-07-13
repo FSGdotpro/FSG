@@ -7,7 +7,6 @@ excerpt: >-
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
   consequatur cum inventore voluptas sed impedit asperiores!
 featuredImage:
-  url: /images/POD.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
