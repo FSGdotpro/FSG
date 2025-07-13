@@ -22,7 +22,7 @@ sections:
         url: /
         showIcon: true
         icon: send
-        iconPosition: left
+        iconPosition: right
         style: primary
         elementId: ''
         type: Link
